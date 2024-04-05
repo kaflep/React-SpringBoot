@@ -1,0 +1,17 @@
+.userdetail {
+    padding: 30px;
+    font-size: 30px;
+
+
+}
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 25px;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+}

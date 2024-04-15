@@ -1,6 +1,7 @@
 import './App.css';
 import UserInfo from './components/UserInfo';
 import UserNav from './components/UserNav';
+// go to this directiory 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
